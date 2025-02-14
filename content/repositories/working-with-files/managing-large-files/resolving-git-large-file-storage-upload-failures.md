@@ -27,3 +27,4 @@ To resolve the error message, you must reinstall your local {% data variables.la
    ```shell
    git lfs push --all origin
    ```
+
